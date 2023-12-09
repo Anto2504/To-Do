@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prioridades_array" />
+
+    <string-array name="estados_array">
+            <item>Por hacer</item>
+            <item>Haciendo</item>
+            <item>Hecho</item>
+    </string-array>
+
+
+</resources>
